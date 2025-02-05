@@ -56,9 +56,7 @@ export default function Home() {
                   <SparklesText text="PermitHive" />
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Leverage our national database of municipalities to gain
-                  instant and accurate insight into legal, permit, and zoning
-                  requirements for your signage or construction project.
+                  Leverage our database of municipal/zoning codes to gain instant and accurate insight into legal, permit, and zoning requirements for your signage or construction project.
                 </p>
               </div>
               <Button
